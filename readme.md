@@ -46,7 +46,7 @@
     ·
     <a href="/docs/readme_ja.md">日本語</a>
     ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+    <a href="/docs/readme_pt-BR.md">Português Br</a>
     ·
     <a href="/docs/readme_it.md">Italiano</a>
     ·
